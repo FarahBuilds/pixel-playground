@@ -1,7 +1,7 @@
 # 🎨 Pixel Playground
 
 <p align="center">
-  <img src="screenshots/pink%20pixel-heart.png" alt="Pink Pixel Heart" width="300"/>
+  <img src="python-art/screenshots/pink%20pixel-heart.png" alt="Pink Pixel Heart" width="300"/>
 </p>
 
 <h3 align="center">Little pixels. Big imagination. ✨</h3>
