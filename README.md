@@ -36,17 +36,7 @@ My first little experiment: a heart created with code, because even pixels deser
 - 💜 **Kotlin** — Android graphics and animations
 - 🌱 More technologies and experiments coming soon!
 
-## 📂 Repository Structure
 
-```text
-pixel-playground/
-├── README.md
-├── python-art/
-│   └── heart.py
-├── kotlin-art/
-└── screenshots/
-    └── pink pixel-heart.png
-```
 
 ## 🚀 What's Next?
 
@@ -56,12 +46,12 @@ pixel-playground/
 - [ ] Experiment with Android Canvas
 - [ ] Build a collection of creative coding projects
 
-## 🌸 Philosophy
+## 🌸
 
 > Code doesn't have to be only functional.
 > It can be expressive, playful, and beautiful too.
 
----
+---  
 
 <p align="center">
   Made with 💗, curiosity, and a little bit of code.
