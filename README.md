@@ -28,7 +28,7 @@ Some experiments might be simple. Others might get a little weird. That's the fu
 
 My first little experiment: a heart created with code, because even pixels deserve a little love.
 
-![Pink Pixel Heart](screenshots/pink%20pixel-heart.png)
+![Pink Pixel Heart](python-art/screenshots/pink%20pixel-heart.png)
 
 ## 🛠️ Technologies
 
